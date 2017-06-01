@@ -3,11 +3,11 @@ package main
 import "fmt"
 
 func main() {
-	for n:=0; n<=8; n++{
-		if n%2!=0{
-		  continue
-		}
-		fmt.Println(n)
-	}
+     s := make([]string , 3)
+     fmt.Println("old:",s)
+	s[0] = "a"
+	s[1] = "b"
+	s[2] = "c"
+	fmt.Println("set:", s)
 
 }
