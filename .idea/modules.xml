@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/go_workspace.iml" filepath="$PROJECT_DIR$/.idea/go_workspace.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/my_go_workspace.iml" filepath="$PROJECT_DIR$/.idea/my_go_workspace.iml" />
+>>>>>>> 543442d0ef2d4859e0a5483e28105136f9a8c3b5
     </modules>
   </component>
 </project>
